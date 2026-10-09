@@ -1,7 +1,3 @@
-# Clock
-
-Simple clock system.
-
 ## Requirements
 
 - PHP 8.0+
